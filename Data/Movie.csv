@@ -1,0 +1,99 @@
+Movie_ID,Title,Year,IMDB Score,Budget,Gross Earnings,Movie_Purchas_id
+M001,10 Cloverfield Lane ,2016,7.3,"15,000,000",71897215,MP001
+M002,13 Hours ,2016,7.4,"50,000,000",52822418,MP002
+M003,A Beginner's Guide to Snuff ,2016,8.7,,,MP003
+M004,Airlift ,2016,8.5,,,MP004
+M005,Alice Through the Looking Glass ,2016,6.4,,,MP005
+M006,Allegiant ,2016,5.8,,,MP006
+M007,Alleluia! The Devil's Carnival ,2016,7.4,,,MP007
+M008,Antibirth ,2016,6.3,,,MP007
+M009,Bad Moms ,2016,6.7,"20,000,000",55461307,MP007
+M010,Batman v Superman: Dawn of Justice ,2016,6.9,,,MP007
+M011,Ben-Hur ,2016,6,,,MP001
+M012,Cabin Fever ,2016,3.7,,,MP002
+M013,Captain America: Civil War ,2016,8.2,,,MP003
+M014,Central Intelligence ,2016,6.6,,,MP004
+M015,Code of Honor ,2016,4.2,,,MP005
+M016,Compadres ,2016,5,"3,000,000",3105269,MP006
+M017,Criminal ,2016,6.3,"31,500,000",14268533,MP007
+M018,Deadpool ,2016,8.1,,,MP007
+M019,Dirty Grandpa ,2016,6,"11,500,000",35537564,MP007
+M020,Eddie the Eagle ,2016,7.5,"23,000,000",15785632,MP007
+M021,Eddie the Eagle ,2016,7.5,"23,000,000",15785632,MP007
+M022,Fifty Shades of Black ,2016,3.5,"5,000,000",11675178,MP001
+M023,Fight to the Finish ,2016,4,,,MP002
+M024,Fight Valley ,2016,5,,,MP003
+M025,Florence Foster Jenkins ,2016,7.1,,,MP004
+M026,Free State of Jones ,2016,6.7,"50,000,000",20389967,MP005
+M027,Ghostbusters ,2016,5.5,,,MP006
+M028,God's Not Dead 2 ,2016,3.4,"5,000,000",20773070,MP007
+M029,Gods of Egypt ,2016,5.5,,,MP007
+M030,Godzilla Resurgence ,2016,8.2,,,MP007
+M031,"Hail, Caesar! ",2016,6.4,"22,000,000",29997095,MP001
+M032,Hands of Stone ,2016,7.2,,,MP002
+M033,How to Be Single ,2016,6.1,"38,000,000",46813366,MP003
+M034,I Am Wrath ,2016,5.2,,,MP004
+M035,Independence Day: Resurgence ,2016,5.5,,,MP005
+M036,Indignation ,2016,7.8,,,MP006
+M037,Irreplaceable ,2016,7.2,,,MP007
+M038,Jane Got a Gun ,2016,5.8,"25,000,000",1512815,MP007
+M039,Jason Bourne ,2016,7.1,,,MP007
+M040,Keanu ,2016,6.4,"15,000,000",20566327,MP001
+M041,Kickboxer: Vengeance ,2016,9.1,,,MP002
+M042,Kicks ,2016,7.8,,,MP003
+M043,Kung Fu Panda 3 ,2016,7.2,,,MP004
+M044,Lights Out ,2016,6.9,"4,900,000",56536016,MP005
+M045,London Has Fallen ,2016,5.9,"60,000,000",62401264,MP006
+M046,Me Before You ,2016,7.6,"20,000,000",56154094,MP007
+M047,Midnight Special ,2016,6.7,"18,000,000",3707794,MP007
+M048,Miracles from Heaven ,2016,6.8,"13,000,000",61693523,MP007
+M049,Misconduct ,2016,5.3,,,MP007
+M050,Money Monster ,2016,6.7,"27,000,000",41008532,MP007
+M051,Mr. Church ,2016,8,,,MP007
+M052,My Big Fat Greek Wedding 2 ,2016,6.1,"18,000,000",59573085,MP007
+M053,Neighbors 2: Sorority Rising ,2016,6,"35,000,000",55291815,MP007
+M054,Nerve ,2016,7.1,"20,000,000",28876924,MP007
+M055,Now You See Me 2 ,2016,6.9,"90,000,000",64685359,MP007
+M056,Operation Chromite ,2016,6.8,"12,620,000",31662,MP007
+M057,Our Kind of Traitor ,2016,6.4,,,MP007
+M058,Pete's Dragon ,2016,7.3,,,MP001
+M059,Pride and Prejudice and Zombies ,2016,5.8,"28,000,000",10907291,MP002
+M060,Race ,2016,7.1,,,MP003
+M061,Restoration ,2016,4,,,MP004
+M062,Ride Along 2 ,2016,5.9,"40,000,000",90835030,MP005
+M063,Risen ,2016,6.3,"20,000,000",36874745,MP006
+M064,Rodeo Girl ,2016,5.7,,,MP007
+M065,Sausage Party ,2016,7.5,,,MP007
+M066,Star Trek Beyond ,2016,7.5,,,MP007
+M067,Suicide Squad ,2016,6.9,,,MP007
+M068,Teenage Mutant Ninja Turtles: Out of the Shadows ,2016,6.3,,,MP007
+M069,The 5th Wave ,2016,5.2,"38,000,000",34912982,MP007
+M070,The Angry Birds Movie ,2016,6.3,,,MP007
+M071,The BFG ,2016,6.8,,,MP007
+M072,The Birth of a Nation ,2016,5.4,,,MP007
+M073,The Boss ,2016,5.3,"29,000,000",63034755,MP007
+M074,The Boy ,2016,6,"10,000,000",35794166,MP007
+M075,The Conjuring 2 ,2016,7.8,,,MP005
+M076,The Dog Lover ,2016,4.8,,,MP001
+M077,The Finest Hours ,2016,6.8,,,MP002
+M078,The Forest ,2016,4.8,"10,000,000",26583369,MP003
+M079,The Huntsman: Winter's War ,2016,6.1,,,MP004
+M080,The Infiltrator ,2016,7.3,"25,000,000",14946229,MP005
+M081,The Jungle Book ,2016,7.8,,,MP006
+M082,The Legend of Tarzan ,2016,6.6,,,MP007
+M083,The Little Ponderosa Zoo ,2016,5.2,,,MP003
+M084,The Masked Saint ,2016,4.7,"3,500,000",123777,MP001
+M085,The Neon Demon ,2016,7,"7,000,000",1330827,MP002
+M086,The Perfect Match ,2016,4.5,"5,000,000",9658370,MP003
+M087,The Purge: Election Year ,2016,6.1,"10,000,000",78845130,MP004
+M088,The Secret Life of Pets ,2016,6.8,,,MP005
+M089,The Shallows ,2016,6.8,"17,000,000",54257433,MP006
+M090,The Veil ,2016,4.7,,,MP007
+M091,The Wailing ,2016,7.7,,,MP001
+M092,The Young Messiah ,2016,5.4,"18,500,000",6462576,MP002
+M093,Triple 9 ,2016,6.3,"20,000,000",12626905,MP003
+M094,Two Lovers and a Bear ,2016,7.2,,,MP004
+M095,Warcraft ,2016,7.3,,,MP005
+M096,X-Men: Apocalypse ,2016,7.3,,,MP006
+M097,Yoga Hosers ,2016,4.8,,,MP007
+M098,Zoolander 2 ,2016,4.8,"50,000,000",28837115,MP007

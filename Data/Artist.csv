@@ -1,0 +1,40 @@
+Artist_ID,Artist_Name,Gender,Fees
+A001,Bradley Cooper,"""Male""",7690028
+A002,Toby Stephens,"""Male""",2143618
+A003,Kimberley Crossman,"""Male""",3036603
+A004,Nimrat Kaur,"""Male""",8680653
+A005,Johnny Depp,"""Female""",3875605
+A006,Naomi Watts,"""Female""",8951856
+A007,Paul Sorvino,"""Male""",3466881
+A008,Natasha Lyonne,"""Female""",8624324
+A009,Mila Kunis,"""Male""",8505432
+A010,Henry Cavill,"""Female""",3123676
+A011,Morgan Freeman,"""Male""",5915948
+A012,Dustin Ingram,"""Male""",2573193
+A013,Robert Downey Jr.,"""Male""",6471258
+A014,John Gallagher Jr.,"""Female""",1652729
+A015,James Badge Dale,"""Male""",1679701
+A016,Luke Edwards,"""Male""",3365293
+A017,Sameer Ali Khan,"""Male""",6174052
+A018,Alan Rickman,"""Male""",3932702
+A019,Theo James,"""Male""",1182139
+A020,Barry Bostwick,"""Male""",4908056
+A021,Emmanuel Kabongo,"""Female""",8504173
+A022,Jay Hernandez,"""Male""",7347614
+A023,Lauren Cohan,"""Male""",6768994
+A024,Ayelet Zurer,"""Female""",4393870
+A025,Gage Golightly,"""Male""",8909302
+A026,Scarlett Johansson,"""Female""",6234414
+A027,Sumalee Montano,"""Male""",5997053
+A028,David Costabile,"""Male""",2744753
+A029,Bree Williamson,"""Male""",4101664
+A030,Purab Kohli,"""Male""",4806819
+A031,Anne Hathaway,"""Female""",5374896
+A032,Zoë Kravitz,"""Male""",2533216
+A033,Terrance Zdunich,"""Female""",3222186
+A034,Mark Webber,"""Female""",8445801
+A035,Jada Pinkett Smith,"""Female""",8749504
+A036,Alan D. Purwin,"""Male""",1012893
+A037,Moises Arias,"""Female""",5881814
+A038,Samuel Davis,"""Female""",1729010
+A039,Chris Evans,"""Male""",8115610
